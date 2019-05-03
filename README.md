@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 wechat-signature
 
 ### 转载：[查看原版](https://github.com/momtboy/handwriting-weapp) https://github.com/momtboy/handwriting-weapp
@@ -13,3 +13,4 @@ wechat-signature
 优化setData过于频繁照成的渲染延迟
 增加笔迹样式
 
+#### 在源代码中 添加 保存、预览、上传等
